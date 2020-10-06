@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 **I am a Sr. Infrastructure Engineer at American Express where I design, build, and troubleshoot the network infrastructure.**
 
-- 🔭 I’m currently working on network automation tools using Ansible
-- 🌱 I’m currently learning backend design using Django and network automation using Ansible
+- 🔭 I’m currently working on network automation tools using Python and [Ansible](https://docs.ansible.com/ansible/latest/network/index.html)
+- 🌱 I’m currently learning backend design using [Django](https://www.djangoproject.com/) and network automation using [Ansible](https://docs.ansible.com/ansible/latest/network/index.html)
 - 🤔 I’m looking for help with network automation, including best practices and useful tools
 - 📫 How to reach me: [twitter.com/chrisjmccormack](https://twitter.com/chrisjmccormack)
 
