@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning backend design using Django and network automation using Ansible
 - 🤔 I’m looking for help with network automation, including best practices and useful tools
 - 📫 How to reach me: [twitter.com/chrisjmccormack](https://twitter.com/chrisjmccormack)
-- <details>
-  <summary>📊 My Stats:</summary>
-[![Chris McCormack's github stats](https://github-readme-stats.vercel.app/api?username=cmccormack)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Chris McCormack's github stats](https://github-readme-stats.vercel.app/api?username=cmccormack&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
