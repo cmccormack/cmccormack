@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [twitter.com/chrisjmccormack](https://twitter.com/chrisjmccormack)
 - <details>
   <summary>📊 My Stats:</summary>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cmccormack)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+[![Chris McCormack's github stats](https://github-readme-stats.vercel.app/api?username=cmccormack)](https://github.com/anuraghazra/github-readme-stats)
