@@ -8,3 +8,5 @@
 - 📫 How to reach me: [twitter.com/chrisjmccormack](https://twitter.com/chrisjmccormack)
 
 [![Chris McCormack's github stats](https://github-readme-stats.vercel.app/api?username=cmccormack&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmccormack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
