@@ -1,6 +1,6 @@
 ### Heya! 👋
 
-**I am a Sr. Infrastructure Engineer at American Express where I help to design, build, and troubleshoot the network infrastructure.**
+**I am a Principal Network Engineer at Early Warning®.**
 
 - 🔭 I’m currently working on network automation tools using Python and [Ansible](https://docs.ansible.com/ansible/latest/network/index.html)
 - 🌱 I’m currently learning backend design using [Django](https://www.djangoproject.com/) and network automation using [Ansible](https://docs.ansible.com/ansible/latest/network/index.html)
